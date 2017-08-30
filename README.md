@@ -2,8 +2,8 @@
 
 ## 環境
 
-Python 3.6.1
-OpenCV 3.3
+- Python 3.6.1
+- OpenCV 3.3
 
 ## 事前準備
 
